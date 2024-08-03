@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I’m Giorgi Khachidze <br />
+🔭 I’m currently working on Tim Corey Mastercourse Final Project
+👀 I’m interested in C#/.NET <br />
+🌱 I’m currently learning ASP.NET,Blazor,MAUI <br />
+💬 I’m looking to collaborate on every project where i can improve my skills <br />
+📫 How to reach me guka.khachidze@gmail.com <br />
