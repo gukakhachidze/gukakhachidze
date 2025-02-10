@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I’m Giorgi Khachidze <br />
+👋 Hi, I’m Guka Khachidze <br />
 🔭 I’m currently working on Tim Corey Mastercourse Final Project <br />
 👀 I’m interested in C#/.NET <br />
 🌱 I’m currently learning ASP.NET,Blazor,MAUI <br />
