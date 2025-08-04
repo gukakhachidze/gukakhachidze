@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m Guka Khachidze, From 🇬🇪<br>🔭 I’m currently working on Do it Georgia Java Course Final Project<br>👀 I’m interested in C# / .NET / Java<br>🌱 I’m currently learning Spring Boot,ASP.NET,Blazor,MAUI<br>💬 I’m looking to collaborate on every project where i can improve my skills<br>📫 How to reach me guka.khachidze@gmail.com
+👋 Hi, I’m **Guka Khachidze** from 🇬🇪 Georgia<br>
+💻 I have hands-on experience with **C#** and the **.NET ecosystem**<br>
+☕ Currently diving deeper into **Java** and building my final project for the _Do it Georgia_ Java course<br>
+🌐 Learning **JavaScript** and **Modern Web Development** through Jonas Schmedtmann’s courses<br>
+🛠️ Exploring **Spring Boot**, **ASP.NET**, **Blazor**, and **.NET MAUI**<br>
+🤝 Open to collaboration on projects that challenge me and help grow my skills<br>
+📬 Reach me at **guka.khachidze@gmail.com**
 
 
 ## 🌐 Socials:
