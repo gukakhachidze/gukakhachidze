@@ -1,11 +1,3 @@
-# 💫 About Me:
-👋 Hi, I’m **Guka Khachidze** from 🇬🇪 Georgia<br>
-💻 I have hands-on experience with **C#** and the **.NET ecosystem**<br>
-☕ Currently diving deeper into **10x Course** <br>
-🌐 Learning **JavaScript** and **Modern Web Development** through Jonas Schmedtmann’s courses<br>
-🛠️ Exploring **HTML/CSS JavaScript**, **ASP.NET**, **REACT**, **Blazor**, and **.NET MAUI**<br>
-🤝 Open to collaboration on projects that challenge me and help grow my skills<br>
-📬 Reach me at **guka.khachidze@gmail.com**
 
 
 ## 🌐 Socials:
